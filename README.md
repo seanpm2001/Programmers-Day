@@ -1,15 +1,15 @@
 
 ***
 
-# <projectName>
+# Programmers Day
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![Konsole.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Konsole.png)
 
 # By:
 
 <!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
 
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
+## [Seanpm2001](https://github.com/seanpm2001/), [All other programmers](https://www.example.com/) Et; Al.
 
 
 ### Top
@@ -22,11 +22,11 @@
 
 **Sorted by:** `A-Z`
 
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
+[Sorting options unavailable](https://github.com/seanpm2001/Programmers-Day)
 
 ( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/<developerName>/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/Seanpm2001/Programmers-Day/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
 
@@ -38,7 +38,7 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#Programmers-Day)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
@@ -100,20 +100,61 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 ***
 
-# <repoName>
-<repo_description>
+# Programmers-Day
+Happy Programmers Day! Programmers day is the 256th day of the year, in celebration of computer programmers. It falls on September 13th on normal years, and September 12th on leap years. Happy 2^8 day!
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This is intended to be a reminder/humor project reminding you about programmers day. If someone shared this project to you on this day, it is also a reminder that we are already 256 days into the year.
+
+The day of the programmer falls on the date said above.
+
+Here are the first 4 demos:
+
+Python 3
+
+```python
+x = int(2)
+y = int(8)
+z = int(x ** y)
+print ("Happy programmers day! " \t + str(x) + " ** " + str(y) + " = " + str(z))
+```
+
+Java
+
+```java
+public class java {
+    public static void main(String[] args) {
+        System.out.println("Happy Programmers day! 2 ** 8 = 256");
+    }
+}
+```
+
+HTML
+```html
+<H1>Well hello there, "HTML programmer"</H1>
+```
+
+C
+
+```c
+#include<stdio.h>
+
+int main(void) {
+    printf("Happy Programmers day!\n");
+    return 0;
+}
+```
+
+More examples coming "soon"
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/<seanpm2001/Programmers-Day/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -121,11 +162,11 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ## History
 
-Write about this projects history here.
+This project has a short history so far.
 
 ### Pre-history
 
-No pre-history to show for this project.
+I discovered that this is a legitimate day on 2021 September 13th, but didn't create this repository until Wednesday, September 15th, 2 days later. It isn't because I am slow, it is because I had to take the 13th as a recovery day, and I didn't think of creating a repository for this holiday until the 15th. 
 
 ### Alpha history
 
@@ -203,7 +244,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 20 commits (As of 2021, Wednesday September 15th at 7:30 pm)
 
 > * 2. No other contributers.
 
@@ -275,7 +316,7 @@ Here are some other resources for this project:
 
 [Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
 
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/Seanpm2001/Programmers-Day/discussions)
 
 No other resources at the moment.
 
@@ -293,9 +334,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown Document (*.md *.mkd *.markdown)`
 
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
+**File version:** `1 (Wednesday, 2021 September 15th at 7:30 pm)`
 
-**Line count (including blank lines and compiler line):** `0,407`
+**Line count (including blank lines and compiler line):** `0,464`
 
 ***
 
@@ -379,11 +420,27 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2021, Wednesday September 15th at 7:30 pm)
 
 > Changes:
 
-> * Coming soon
+> * Started the file
+
+> * Updated the title section
+
+> * Updated the repo info section
+
+> * Updated the about section
+
+> * Updated the history section
+
+> * Updated the contributors section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
 
 > * No other changes in version 1
 
@@ -399,7 +456,7 @@ Version 2 (Coming soon)
 
 ### You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 
